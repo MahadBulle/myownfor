@@ -1,5 +1,6 @@
 import React from 'react'
 import Test from './Test'
+import Navbar from './Navigation'
 
 export default function app() {
   return (
@@ -7,6 +8,7 @@ export default function app() {
       <h1>Today is our day</h1>
       <h1>We making samething</h1>
       <Test/>
+      <Navbar/>
 
     </div>
   )
