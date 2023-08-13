@@ -6,6 +6,7 @@ export default function app() {
     <div>
       <h1>Today is our day</h1>
       <h1>We making samething</h1>
+      <Test/>
 
     </div>
   )
